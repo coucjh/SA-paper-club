@@ -2,7 +2,7 @@
 A repository containing papers and supplementary material discussed at SiteAssist paper club
 
 # Next meet's paper
-[27/01/2023] TBA
+[27/01/2023] TBA Presented by Jamie 
 
 # Supplementary material 
 For those new to machine learning, these are some recommended reading material:
