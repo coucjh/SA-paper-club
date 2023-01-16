@@ -10,4 +10,4 @@ For those new to machine learning, these are some recommended reading material:
 - Goodfellow, I., Bengio, Y., & Courville, A. (2016). [Deep learning.](http://www.deeplearningbook.org/) MIT press.
 
 # Past papers
-- [27/01/2023] TBA
+- [20/01/2023] [Unsupervised Semantic Segmentation by Distilling Feature Correspondences](https://arxiv.org/abs/2203.08414)
