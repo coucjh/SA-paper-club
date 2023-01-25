@@ -7,6 +7,7 @@ A repository containing papers and supplementary material discussed at SiteAssis
 # Supplementary material 
 For those new to machine learning, these are some recommended reading material:
 
+- [Illustrated Machine Learning](https://illustrated-machine-learning.github.io/index.html)
 - Goodfellow, I., Bengio, Y., & Courville, A. (2016). [Deep learning.](http://www.deeplearningbook.org/) MIT press.
 - Mark Hamilton, Zhoutong Zhang, Bharath Hariharan, Noah Snavely, William T. Freeman. (2017) [Attention is All You Need](https://arxiv.org/abs/1706.03762)
 - [Visual Guide to Transformers](https://jalammar.github.io/illustrated-transformer/)
